@@ -1,3 +1,5 @@
+![Screenshot (173)](https://github.com/user-attachments/assets/c8ca0fc0-9069-4897-b656-38f7ff466de5)
+![Screenshot (172)](https://github.com/user-attachments/assets/04d9a90b-2109-4256-a3ab-ab17c9655996)
 # Gmail Email Filtering App
 
 This is a web application that connects to a user's Gmail account to fetch, filter, and categorize their emails. It features an intuitive UI that allows users to filter emails by category, search for specific emails, and preview email content. The app also displays analytics, including the total number of emails and category-wise breakdowns.
