@@ -1,3 +1,5 @@
+![Screenshot (173)](https://github.com/user-attachments/assets/43d89e78-b78f-47cd-98af-cc151b1a87fd)
+![Screenshot (172)](https://github.com/user-attachments/assets/5cd583fb-2f2a-4780-8c6d-c19cfce4c505)
 
 
 # Gmail Email Filtering App
