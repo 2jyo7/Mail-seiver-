@@ -37,8 +37,8 @@ export default function EmailsCollection() {
   const categoryCounts = calculateAnalytics(emails);
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-50 to-white p-6">
-      <div className="max-w-7xl mx-auto grid md:grid-cols-4 gap-8">
+    <div className="min-h-screen bg-gradient-to-br from-gray-50 to-white p-6  ">
+      <div className="max-w-7xl mx-auto grid md:grid-cols-4 gap-8 container my-12">
         {/* Left - Emails Section */}
         <div className="md:col-span-3 space-y-8">
           {/* Top Bar */}
