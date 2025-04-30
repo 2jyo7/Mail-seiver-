@@ -1,10 +1,10 @@
 import PreviewOneEmail from "@/component/PreviewOneEmail";
 import React from "react";
 
-const EmailPreview = ({ id }: { id: string }) => {
+const EmailPreview = ({ params }: { params: { id: string } }) => {
   return (
     <div>
-      <PreviewOneEmail id={id} />
+      <PreviewOneEmail id={params.id} />
     </div>
   );
 };

@@ -2,8 +2,16 @@ export interface EmailProps {
   id: string;
   snippet?: string;
   subject?: string;
-  body?: string;
-  from?: string;
-  to?: string;
-  date?: string;
 }
+
+export type EmailHeader = {
+  name: string;
+  value: string;
+};
+
+export type EmailDetails = {
+  id: string;
+  headers: EmailHeader[];
+  snippet?: string;
+  body?: string;
+};
